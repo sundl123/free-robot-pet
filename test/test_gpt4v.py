@@ -1,7 +1,7 @@
 import unittest
 
-api_key = "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"
-secret_key = "pangpang"
+api_key = "your api key"
+secret_key = "your secret key"
 
 
 def analyse_single_image_by_url():

@@ -1,3 +1,14 @@
+<!-- omit in toc -->
+<div align="center">
+<img src="./assets/logo.png" alt="MCP Go Logo">
+
+
+<strong>A free robot pet which runs on Raspberry Pi</strong>
+
+<br>
+
+</div>
+
 # Robot Pet 机器猫
 
 ## Install Dependencies
