@@ -1,3 +1,5 @@
+# Robot Pet 机器猫
+
 <!-- omit in toc -->
 <div align="center">
 <img src="./assets/logo.png" alt="MCP Go Logo">
@@ -8,8 +10,6 @@
 <br>
 
 </div>
-
-# Robot Pet 机器猫
 
 ## Install Dependencies
 
