@@ -49,7 +49,7 @@ python robot_pet --chat-type car
 
 ## 欢迎关注我
 
-欢迎关注我，学习更多AI干货知识
+我是栋梁，欢迎关注我，学习更多AI干货知识
 
 <img src="./assets/wechat.webp" alt="Wechat QR Code">
 
