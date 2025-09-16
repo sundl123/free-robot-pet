@@ -1,0 +1,44 @@
+chatbot:
+  model: "ernie-bot-4"
+  access_token: "your token"
+
+personality:
+  name: "嘟嘟"
+  father:
+    name: "张三"
+    id: "zhangsan"
+  mother:
+    name: "李四"
+    id: "lisi"
+
+voice_wakeup:
+  model_name: "dudu.pmdl"
+
+audio:
+  app_id: "your id"
+  api_key: "your key"
+  secret_key: "your key"
+
+vision:
+  face:
+    app_id: "your id"
+    api_key: "your key"
+    secret_key: "your key"
+    face_db: "family_member"
+    similarity_thresh: 80
+  gpt4v:
+    api_key: "your key"
+    secret_key: "your key"
+
+
+miiot:
+  mock: false
+  light:
+    ip: "192.168.111.95"
+    token: "your token"
+  curtain_white:
+    ip: "192.168.111.93"
+    token: "your token"
+  curtain_gray:
+    ip: "192.168.111.94"
+    token: "your token"

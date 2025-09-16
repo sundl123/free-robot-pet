@@ -1,0 +1,8 @@
+baidu_aip==4.16.12
+click==8.1.7
+erniebot==0.4.0
+numpy==1.26.1
+PyAudio==0.2.13
+pygame==2.5.2
+PyYAML==6.0.1
+scipy==1.11.3

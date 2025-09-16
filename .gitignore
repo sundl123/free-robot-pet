@@ -1,0 +1,36 @@
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Undo
+[._]*.un~
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Auto-generated tag files
+tags
+
+# Temp
+*~
+.DS_Store
+
+# IDE configurations
+.idea
+
+# logging files
+gw.log
+
+# audio files
+/*.mp3
+/*.wav
+
+__pycache__
+
+conf/config.yaml
+
+/temp

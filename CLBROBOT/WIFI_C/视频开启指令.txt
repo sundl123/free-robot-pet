@@ -1,0 +1,13 @@
+开启摄像头：
+
+1、进入mjpg-streamer 软件所在的目录，开启摄像头。打开终端输入
+   cd mjpg-streamer/mjpg-streamer-exprimental
+2、进入此目录后输入
+  sudo ./start.sh
+
+
+打开控制端：
+1、打开控制端 进入WIFI_C
+ cd ZYRobot/WIFI_C/
+ gcc car_server.c -o car_server –lwiringPi –lwiringPiDev
+2、sudo ./car_server 2001
